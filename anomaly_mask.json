@@ -1,0 +1,23 @@
+{
+
+    "leather": {
+        "use_mask"     : false,
+        "bg_threshold" : null,
+        "bg_reverse"   : null
+    },
+    "screw": {
+        "use_mask"     : true,
+        "bg_threshold" : 110,
+        "bg_reverse"   : false
+    },
+    "bracket_black": {
+        "use_mask": true,
+        "bg_threshold": 81,
+        "bg_reverse": false
+    },
+    "cashew": {
+        "use_mask": true,
+        "bg_threshold": 107,
+        "bg_reverse": true
+    }
+}
